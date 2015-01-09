@@ -1,0 +1,91 @@
+.navbar-default{
+	background-color: #4D99A4;
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	font-size: 30px;
+}
+.midrow{
+	background-color: #00D089;
+	padding-bottom: 50px;
+}
+.midrow .row h3{
+	color:white;
+}
+.midrow .row h1{
+	color:white;
+	font-size: 100px;
+	padding-left: 20px;
+	
+}
+.midrow .row .middle{
+	color:white;
+}
+.midrow .container {
+	padding-top: 30px;
+}
+
+.map {
+	display: block;
+	z-index: -1;
+}
+.location {
+	display: block;
+}
+.circle{
+	max-height: 300px;
+	max-width: 300px;
+	background-color: #fff;
+	position: absolute;
+	border-radius: 100%;
+	opacity: .8;
+	top: 25%;
+	bottom: 25%;
+	left: 35%%;
+	right: 35%;
+	
+}
+.firstrow {
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.customer {
+	padding-top: 50px;
+}
+
+.slider .container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+}
+.circle form {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+.circle input {
+	margin-bottom: 10px;
+}
+.map-section .container-fluid{
+	padding-left: 0;
+	padding-right: 0;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.footer{
+	text-align: center;
+	padding: 1% 1.5%;
+	color: white;
+	background-color: #00D089;
+}
+.glyphicon{
+	position: absolute;
+	top:80%;
+	left: 45%;
+	color:#00D089;
+	font-size: 45px;
+}
